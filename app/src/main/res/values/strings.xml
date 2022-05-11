@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Control5</string>
+    <string name="Descripcion1">Auto1</string>
+    <string name="Descripcion2">Auto2</string>
+    <string name="Descripcion3">Auto3</string>
+    <string name="año">Año:</string>
+    <string name="marca">Marca:</string>
+    <string name="modelo">Modelo:</string>
+</resources>
